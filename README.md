@@ -2,7 +2,7 @@
 
 ### 🎓 Analytical Chemist | 🔬 Passionate about Science and Innovation
 
-I specialize in analytical chemistry with a keen interest in predicting solvent solubility for NMR based on LC elution properties. Currently, I'm diving into the world of programming to explore new ways to solve complex problems in the field of chemistry.
+I specialize in analytical chemistry with a keen interest in sustainibility. Currently, I'm diving into the world of programming to explore new ways to solve complex problems in the field of chemistry.
 
 ---
 
@@ -15,9 +15,8 @@ I specialize in analytical chemistry with a keen interest in predicting solvent 
 ---
 
 ## 🔧 Skills:
-- **Analytical Chemistry** (specialized in NMR and LC)
-- **Beginner in Programming** (eager to learn new languages and tools)
-- **Scientific Research** and **Data Analysis**
+- **Analytical Chemistry** 
+- **Beginner in Programming** 
 
 ---
 
