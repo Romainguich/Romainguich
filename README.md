@@ -1,56 +1,57 @@
 # 👋 Hi, I'm Romain Guichonnet!
 
-### 🎓 Analytical Chemist | 🔬 Passionate about Science and Innovation
+### 🧪 Analytical Chemist | 🔬 Mass Spectrometry | ⚙️ Scientific Automation
 
-I specialize in analytical chemistry with a keen interest in sustainibility. Currently, I'm diving into the world of programming to explore new ways to solve complex problems in the field of chemistry.
+I am an analytical chemist with a strong interest in **mass spectrometry, analytical method development, and scientific automation**.
 
----
+I completed my Master's degree at **EPFL**, where I developed a particular interest in applying computational and automated approaches to analytical chemistry. I am especially interested in the interface between **experimental science, instrumentation, data analysis, and programming**.
 
-## 🧪 About Me:
-- 🎯 **Current Focus:** Predicting solvent solubility for NMR using LC elution properties.
-- 🌱 **Learning Journey:** Beginner in programming, with an interest in data analysis and modeling.
-- 🎶 **Passions:** Sports and music.
-- 🌍 **Languages:** French and English.
+I enjoy working on projects that combine laboratory work with computational tools to improve the efficiency, reproducibility, and interpretation of analytical workflows.
 
 ---
 
-## 🔧 Skills:
-- **Analytical Chemistry** 
-- **Beginner in Programming** 
+## 🔬 Areas of Interest
+
+- Analytical chemistry
+- Mass spectrometry
+- LC-MS / LC-HRMS
+- Scientific automation
+- Instrumental method development
+- Data analysis and processing
+- Scientific programming
+- Sustainable approaches in chemistry
 
 ---
 
-## 📫 Contact Me:
+## 🛠️ Skills & Tools
+
+- Analytical method development
+- Mass spectrometry and LC-MS
+- Python
+- Scientific data processing
+- Workflow automation
+- Git & GitHub
+
+---
+
+## 🌱 Currently Exploring
+
+I am continuing to develop my skills in **scientific programming, automation, and data analysis**, with a particular interest in their applications to analytical chemistry and mass spectrometry.
+
+---
+
+## 🌍 Languages
+
+- 🇫🇷 French
+- 🇬🇧 English
+
+---
+
+## 📫 Contact
+
 - **Email:** [Romain.guichonnet@epfl.ch](mailto:Romain.guichonnet@epfl.ch)
 - **LinkedIn:** [Romain Guichonnet](https://www.linkedin.com/in/romain-guichonnet-214512286/)
 
 ---
 
-## 🔗 Future Goals:
-- Deepen my programming skills for scientific data analysis.
-- Collaborate on modeling and prediction projects in analytical chemistry.
-
----
-
-## ⚡ Fun Fact:
-When I'm not analyzing solvents, you can find me on the sports field or relaxing with some good music! 🎵⚽
-
----
-
-Thanks for visiting my GitHub profile! 🚀 Feel free to reach out or collaborate on scientific and tech projects!
-
-
-<!--
-**Romainguich/Romainguich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for visiting my GitHub profile! 🚀
